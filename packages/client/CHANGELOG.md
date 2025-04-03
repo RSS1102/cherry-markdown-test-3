@@ -1,20 +1,12 @@
-# Change Log
+# @cherry-markdown/client
 
-## 0.0.19
+## 0.1.1
 
 ### Patch Changes
 
+- chore: add `export` function,export `pdf`、`html`、`md`、`png` [@RSS1102](https://github.com/RSS1102)([`636b66b`](https://github.com/RSS1102/cherry-markdown-test-3/commit/636b66bb048e746a512ee062ef78c4d780d976e2))
 - feat: add changesets [@RSS1102](https://github.com/RSS1102)([`636b66b`](https://github.com/RSS1102/cherry-markdown-test-3/commit/636b66bb048e746a512ee062ef78c4d780d976e2))
-- feat(vscodePlugin): added export preview png [@RSS1102](https://github.com/RSS1102)([`636b66b`](https://github.com/RSS1102/cherry-markdown-test-3/commit/636b66bb048e746a512ee062ef78c4d780d976e2))
 - ci: beautify release message [@RSS1102](https://github.com/RSS1102)([`636b66b`](https://github.com/RSS1102/cherry-markdown-test-3/commit/636b66bb048e746a512ee062ef78c4d780d976e2))
 - ci: 使用 `changeset` 进行发布流程自动化 [@RSS1102](https://github.com/RSS1102)([`636b66b`](https://github.com/RSS1102/cherry-markdown-test-3/commit/636b66bb048e746a512ee062ef78c4d780d976e2))
 - Updated dependencies [[`636b66b`](https://github.com/RSS1102/cherry-markdown-test-3/commit/636b66bb048e746a512ee062ef78c4d780d976e2), [`636b66b`](https://github.com/RSS1102/cherry-markdown-test-3/commit/636b66bb048e746a512ee062ef78c4d780d976e2), [`636b66b`](https://github.com/RSS1102/cherry-markdown-test-3/commit/636b66bb048e746a512ee062ef78c4d780d976e2), [`636b66b`](https://github.com/RSS1102/cherry-markdown-test-3/commit/636b66bb048e746a512ee062ef78c4d780d976e2), [`636b66b`](https://github.com/RSS1102/cherry-markdown-test-3/commit/636b66bb048e746a512ee062ef78c4d780d976e2), [`636b66b`](https://github.com/RSS1102/cherry-markdown-test-3/commit/636b66bb048e746a512ee062ef78c4d780d976e2), [`636b66b`](https://github.com/RSS1102/cherry-markdown-test-3/commit/636b66bb048e746a512ee062ef78c4d780d976e2), [`636b66b`](https://github.com/RSS1102/cherry-markdown-test-3/commit/636b66bb048e746a512ee062ef78c4d780d976e2), [`636b66b`](https://github.com/RSS1102/cherry-markdown-test-3/commit/636b66bb048e746a512ee062ef78c4d780d976e2), [`636b66b`](https://github.com/RSS1102/cherry-markdown-test-3/commit/636b66bb048e746a512ee062ef78c4d780d976e2), [`636b66b`](https://github.com/RSS1102/cherry-markdown-test-3/commit/636b66bb048e746a512ee062ef78c4d780d976e2), [`636b66b`](https://github.com/RSS1102/cherry-markdown-test-3/commit/636b66bb048e746a512ee062ef78c4d780d976e2), [`636b66b`](https://github.com/RSS1102/cherry-markdown-test-3/commit/636b66bb048e746a512ee062ef78c4d780d976e2), [`636b66b`](https://github.com/RSS1102/cherry-markdown-test-3/commit/636b66bb048e746a512ee062ef78c4d780d976e2), [`636b66b`](https://github.com/RSS1102/cherry-markdown-test-3/commit/636b66bb048e746a512ee062ef78c4d780d976e2), [`636b66b`](https://github.com/RSS1102/cherry-markdown-test-3/commit/636b66bb048e746a512ee062ef78c4d780d976e2)]:
   - cherry-markdown@0.9.0
-
-All notable changes to the "cherrymarkdown" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
